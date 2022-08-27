@@ -11,3 +11,6 @@ https://www.virustotal.com/gui/file/49926575c7cccae14bb87069ff1ed246d15dd7393749
 - SHA-256: 49926575C7CCCAE14BB87069FF1ED246D15DD7393749CCC55FD52F010A747890
 
 - MD-5: E72910905A13F42AFABA84CA4EEF163F
+
+# Lisans
+- Bu program, GPL Affero Genel Kamu lisansı ile lisanslanmıştır.
