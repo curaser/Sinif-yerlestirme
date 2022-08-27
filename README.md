@@ -2,7 +2,7 @@
 - Kullanımı gayet basit olan bir program. Sınıf mevcudunu ve sınıftaki kişilerin adlarını girin ve sınıftaki kişileri otomatik olarak rastgele sıralar. Eğer ki sınıf mevcudu tek sayıysa tek oturacak kişiyi de belirler. Böylece öğretmenlerin sınıftaki mızmız öğrencilerden de kurtarmış olur.
 
 # Derlenmiş Dosyalar
-- Cihazınızda python yüklü değilse programın pyinstaller ile derlenmiş halini www.serkancurta.ml sitesinde bulabilirsiniz.
+- Cihazınızda python yüklü değilse programın pyinstaller ile derlenmiş halini www.serkancura.ml sitesinde bulabilirsiniz.
 
 # Virustotal Sonuçları
 - Ölçme, seçme ve yerleştirme programı.py
