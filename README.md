@@ -13,4 +13,4 @@ https://www.virustotal.com/gui/file/49926575c7cccae14bb87069ff1ed246d15dd7393749
 - MD-5: E72910905A13F42AFABA84CA4EEF163F
 
 # Lisans
-- Bu program, GPL Affero Genel Kamu lisansı ile lisanslanmıştır.
+- Bu program, GNU Affero Genel Kamu lisansı ile lisanslanmıştır.
