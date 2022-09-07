@@ -12,5 +12,10 @@ https://www.virustotal.com/gui/file/49926575c7cccae14bb87069ff1ed246d15dd7393749
 
 - MD-5: E72910905A13F42AFABA84CA4EEF163F
 
+-Ölçme, seçme ve yerleştirme programı.exe
+https://www.virustotal.com/gui/file/820c1d424799ba5df0e04d2bf0abdcfd332c14bee5c9786a41d91960d0c8b6d6
+
+-SHA-256: 820c1d424799ba5df0e04d2bf0abdcfd332c14bee5c9786a41d91960d0c8b6d6
+
 # Lisans
 - Bu program, GNU Affero Genel Kamu lisansı ile lisanslanmıştır.
